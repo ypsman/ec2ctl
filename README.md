@@ -1,3 +1,4 @@
+# still in development
 # ec2ctl.sh
 a small Bash script to start and Stop a list of <br>
 AWS ec2 instances.<br>
